@@ -52,7 +52,7 @@ form {
 }
 
 .about {
-  column-count: 3;
+  column-count: 2;
   column-gap: 40px;
   column-rule-style: solid;
   column-rule-width: 1px;
